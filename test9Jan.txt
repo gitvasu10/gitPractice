@@ -3,3 +3,6 @@ Everything went fine in the local repo as well as in the remote repo
 but I don't know why is it that it is not counting all these recent commits in GitHub.
 
 For this, this file has been created...
+
+I found something interseting in this manner i.e if we're working on the cloned repo, then github does not keep track og daily 
+contributions, rather, if we're woking on the forked one, then it surely does...
