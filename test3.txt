@@ -1,0 +1,9 @@
+Let's see what is going to happen in this practice.
+This file is created in the testBranch.
+Now I am going to :-
+1. Put it  in the staging area.
+2. Commit it in the local repo
+3. Merge the changes in the master branch.
+
+4. Login into my GitHub profile via command prompt itself.
+5. Push the local repo into the remote repo.
