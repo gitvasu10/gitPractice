@@ -1,0 +1,5 @@
+I tried to create a new branch and commit it and push it into the remote repo.
+Everything went fine in the local repo as well as in the remote repo
+but I don't know why is it that it is not counting all these recent commits in GitHub.
+
+For this, this file has been created...
