@@ -1,0 +1,2 @@
+This is the testFile 2 which has been modified by Shashwat Malasi as a practice
+to get a better hands-on git commands using Windows command prompt.
