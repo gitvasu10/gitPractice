@@ -1,0 +1,23 @@
+For login via PAT - git remote set-url origin https://<token>@github.com/<username>/<repo>
+
+For renaming a branch - git branch -M main
+For setting up the origin source - git remote add origin <url-of-the-repo>
+For setting all the pushes to the upstream - git push -u origin
+Now, we can just type in 'git push' and git'll push all the commits to the origin
+---------------------------------------------------------------------------------------
+For Stashing -> git stash
+For getting all the stashed content back -> git stash pop
+For appplying the stashed content to multiple files -> git stash apply
+For stashing all the files together with the untracked ones -> git statsh -u 
+For multiple stashes -> git stash // some code
+			git stash // some code   (All'll be saved in the sequesnce in which they are stashed)
+
+For displaying the stash list -> git stash list
+For applyig some specific stash to the current file -> git stash apply stash@{2}
+For dropping the stashes -> git stash drop stash@{2}
+For clearing the stash -> git stash clear
+---------------------------------------------------------------------------------------
+REBASE
+
+rebase/merge -> Take the commits from the feature beanches and put them in the master/main branch
+
