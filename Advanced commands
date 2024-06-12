@@ -1,0 +1,4 @@
+Useful Commands
+
+1. git switch <branch-name> -> This command is used to switch the branches in our repo, if several present
+2. git branch <branch-name> -> THis command is used to see the all the available branches in the current repo.
